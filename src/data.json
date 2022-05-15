@@ -1,0 +1,33 @@
+[
+  {
+    "title": "React QrCode",
+    "link": "https://react-qr-code.vercel.app/",
+    "image": "/react-qr-code.png",
+    "about": "Insert the link, choose the color and background color and generate a custom QR Code! You can also download the QRCode image.",
+    "made": "<img src=\"https://img.shields.io/badge/React-8257e6.svg?style=for-the-badge&logo=react&logoColor=white\" alt=\"React\"/> <img src=\"https://img.shields.io/badge/Material.UI-8257e6.svg?style=for-the-badge&logo=mui&logoColor=white\" alt=\"Material.UI\" />"
+  },
+
+  {
+    "title": "Dev.Finance$",
+    "link": "ttps://gugamacedo.github.io/dev-finances/",
+    "image": "/dev-finances.png",
+    "about": "Control your finances! User can add, edit or delete a profit/expense and     generate balance. Also with dark mode!",
+    "made": "<img src=\"https://img.shields.io/badge/VanillaJS-8257e6.svg?style=for-the-badge&logo=javascript&logoColor=white\" alt=\"Javascript\" />  <img src=\"https://img.shields.io/badge/SCSS-8257e6.svg?style=for-the-badge&logo=SASS&logoColor=white\" alt=\"SASS\" />"
+  },
+
+  {
+    "title": "Dunder Mifflin",
+    "link": "https://gugamacedo.github.io/dunder-mifflin/",
+    "image": "/dunder-mifflin.png",
+    "about": "Parallax site for the best sitcom ever! You can view the company's history, file a complaint, or view a list of characters by season.",
+    "made": "<img src=\"https://img.shields.io/badge/HTML-8257e6.svg?style=for-the-badge&logo=html5&logoColor=white\" alt=\"HTML5\" /> <img src=\"https://img.shields.io/badge/CSS-8257e6.svg?style=for-the-badge&logo=css3&logoColor=white\" alt=\"CSS3\" />"
+  },
+
+  {
+    "title": "Luxury Dealership",
+    "link": "https://gugamacedo.github.io/luxury-dealership/",
+    "image": "/luxury-dealership.png",
+    "about": "Parallax site for a fictional store selling used luxury vehicles. See vehicle categories and their owners, and also register an offer for any of the vehicles.",
+    "made": "<img src=\"https://img.shields.io/badge/HTML-8257e6.svg?style=for-the-badge&logo=html5&logoColor=white\" alt=\"HTML5\" /> <img src=\"https://img.shields.io/badge/CSS-8257e6.svg?style=for-the-badge&logo=css3&logoColor=white\" alt=\"CSS3\" />"
+  }
+]
