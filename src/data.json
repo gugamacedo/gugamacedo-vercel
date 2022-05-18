@@ -1,7 +1,7 @@
 [
   {
     "title": "React QrCode",
-    "link": "https://react-qr-code.vercel.app/",
+    "link": "https://react-qr-code.vercel.app",
     "image": "/react-qr-code.png",
     "about": "Insert the link, choose the color and background color and generate a custom QR Code! You can also download the QRCode image.",
     "made": "<img src=\"https://img.shields.io/badge/React-8257e6.svg?style=for-the-badge&logo=react&logoColor=white\" alt=\"React\"/> <img src=\"https://img.shields.io/badge/Material.UI-8257e6.svg?style=for-the-badge&logo=mui&logoColor=white\" alt=\"Material.UI\" />"
