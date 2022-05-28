@@ -8,7 +8,7 @@
     top: 0;
     left: 0;
     z-index: -1;
-    width: 400px;
+    width: 350px;
     transform: rotateY(180deg);
   }
 
@@ -20,7 +20,7 @@
       width: 200px;
       border-radius: 50%;
       box-shadow: 0 0 20px $primary-color;
-      background: $primary-gradient;
+      background: $primary-color;
     }
 
     h1 {
@@ -54,7 +54,7 @@
 @media (min-width: 1900px) {
   .header {
     .stain {
-      width: 600px;
+      width: 500px;
     }
 
     .avatar {
@@ -83,7 +83,7 @@
 @media (max-width: 820px) {
   .header {
     .stain {
-      width: 300px;
+      width: 250px;
     }
   }
 }

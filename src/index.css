@@ -26,7 +26,7 @@ body::-webkit-scrollbar-track {
   /* color of the tracking area */
 }
 body::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, #7953d3, #c853d3 65%, rgb(232, 63, 136));
+  background: linear-gradient(180deg,#8257e6 50%,#c853d3);
   /* color of the scroll thumb */
   border-radius: 25px;
 }
