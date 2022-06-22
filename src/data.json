@@ -9,7 +9,7 @@
 
   {
     "title": "Dunder Mifflin",
-    "link": "https://gugamacedo.github.io/dunder-mifflin/",
+    "link": "https://dunder-mifflin.vercel.app/",
     "image": "/dunder-mifflin.png",
     "about": "SSG page for the best sitcom ever! You can view the company's history, file a complaint, view our team and details about each one.",
     "made": "<img src=\"https://img.shields.io/badge/NextJS-8257e6.svg?style=for-the-badge&logo=next.js&logoColor=white\" alt=\"NextJS\" /> <img src=\"https://img.shields.io/badge/Styled--Components-8257e6.svg?style=for-the-badge&logo=styled-components&logoColor=white\" alt=\"Styled Components\" />"
