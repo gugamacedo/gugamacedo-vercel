@@ -8,19 +8,19 @@
   },
 
   {
+    "title": "Dunder Mifflin",
+    "link": "https://gugamacedo.github.io/dunder-mifflin/",
+    "image": "/dunder-mifflin.png",
+    "about": "SSG page for the best sitcom ever! You can view the company's history, file a complaint, view our team and details about each one.",
+    "made": "<img src=\"https://img.shields.io/badge/NextJS-8257e6.svg?style=for-the-badge&logo=next.js&logoColor=white\" alt=\"NextJS\" /> <img src=\"https://img.shields.io/badge/Styled--Components-8257e6.svg?style=for-the-badge&logo=styled-components&logoColor=white\" alt=\"Styled Components\" />"
+  },
+
+  {
     "title": "Dev.Finance$",
     "link": "ttps://gugamacedo.github.io/dev-finances/",
     "image": "/dev-finances.png",
     "about": "Control your finances! User can add, edit or delete a profit/expense and     generate balance. Also with dark mode!",
     "made": "<img src=\"https://img.shields.io/badge/VanillaJS-8257e6.svg?style=for-the-badge&logo=javascript&logoColor=white\" alt=\"Javascript\" />  <img src=\"https://img.shields.io/badge/SCSS-8257e6.svg?style=for-the-badge&logo=SASS&logoColor=white\" alt=\"SASS\" />"
-  },
-
-  {
-    "title": "Dunder Mifflin",
-    "link": "https://gugamacedo.github.io/dunder-mifflin/",
-    "image": "/dunder-mifflin.png",
-    "about": "Parallax site for the best sitcom ever! You can view the company's history, file a complaint, or view a list of characters by season.",
-    "made": "<img src=\"https://img.shields.io/badge/HTML-8257e6.svg?style=for-the-badge&logo=html5&logoColor=white\" alt=\"HTML5\" /> <img src=\"https://img.shields.io/badge/CSS-8257e6.svg?style=for-the-badge&logo=css3&logoColor=white\" alt=\"CSS3\" />"
   },
 
   {
