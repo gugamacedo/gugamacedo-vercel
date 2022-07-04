@@ -1,28 +1,31 @@
 import style from './Card.module.css'
 
-import data from "../../data.json"
-
-const parse = require('html-react-parser')
+import cards from "../../data"
 
 export function Card() {
-
   return (
     <main className={style.main}>
       <ul className={style.cards}>
         {
-          data.map(item => (
-            <li className={style.card} key={item.title}>
-            <h3>{item.title}</h3>
-            <a href={item.link} target="_blank" rel="noreferrer">
-              <img src={item.image} alt={item.title} />
+          cards.map(card => (
+            <li className={style.card} key={card.title}>
+            <h3>{card.title}</h3>
+            <a href={card.link} target="_blank" rel="noreferrer">
+              <img src={card.image} alt={card.title} />
             </a>
             <div>
               <p>
-                <b>About:</b> {item.about}
+                <b>About:</b> {card.about}
               </p>
               <p className='made'>
                 <b>Made with: </b>
-                {parse(item.made)}
+                {card.made.map((item) => (
+                    <img
+                      key={item.name}
+                      src={`https://img.shields.io/badge/${item.name}-8257e6.svg?style=for-the-badge&logo=${item.logo}&logoColor=white`}
+                      alt={item.name}
+                    />
+                  ))}
               </p>
             </div>
           </li>
