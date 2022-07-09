@@ -7,7 +7,7 @@ export function Header() {
       <div className={style.avatar}>
         <img src="/avatar_small.png" alt="Guga Macedo" />
         <h1>Guga Macedo</h1>
-        <h2>Beginner React Developer</h2>
+        <h2>FullStack Developer</h2>
       </div>
 
       <div className={style.links}>

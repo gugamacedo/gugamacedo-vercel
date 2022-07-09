@@ -26,7 +26,7 @@ const data = [
 
   {
     title: 'Dev.Finance$',
-    link: 'ttps://gugamacedo.github.io/dev-finances/',
+    link: 'https://gugamacedo.github.io/dev-finances/',
     image: '/dev-finances.png',
     about:
       'Control your finances! User can add, edit or delete a profit/expense and     generate balance. Also with dark mode!',
