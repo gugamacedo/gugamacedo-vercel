@@ -32,13 +32,22 @@
   color: rgb(230, 220, 230);
 }
 .header .links {
-  margin: 40px auto;
+  margin: 40px 0;
   display: flex;
-  justify-content: space-evenly;
-  width: 40%;
+  justify-content: center;
+  gap: 200px;
+  width: 100%;
 }
-.header .links img {
-  height: 30px;
+.header .links a {
+  color: rgb(230, 220, 230);
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.header .links a img {
+  height: 40px;
 }
 
 @media (min-width: 1900px) {
@@ -54,9 +63,15 @@
   .header .avatar h2 {
     font-size: 2rem;
   }
-  .header .links img {
-    height: 50px;
-    margin: 30px 0;
+  .header .links {
+    margin: 60px 0;
+  }
+  .header .links a {
+    font-size: 1.5rem;
+    gap: 20px;
+  }
+  .header .links a img {
+    height: 60px;
   }
 }
 @media (max-width: 820px) {
@@ -92,7 +107,13 @@
     font-size: 0.9rem;
   }
   .header .links {
-    margin: 20px auto;
-    width: 70%;
+    margin: 30px auto;
+    gap: 50px;
+  }
+  .header .links a {
+    font-size: 0.8rem;
+  }
+  .header .links a img {
+    height: 30px;
   }
 }/*# sourceMappingURL=Header.module.css.map */
