@@ -14,7 +14,7 @@ const data = [
 
   {
     title: 'React QrCode',
-    link: 'https://mini-course-react.vercel.app/',
+    link: 'https://react-qr-code.vercel.app',
     image: '/react-qr-code.png',
     about:
       'Insert the link, choose the color and background color and generate a custom QR Code! You can also download the QRCode image.',
@@ -26,7 +26,7 @@ const data = [
   
   {
     title: 'Selective Collect',
-    link: 'https://react-qr-code.vercel.app',
+    link: 'https://mini-course-react.vercel.app/',
     image: '/mini-course-react.png',
     about:
       'A SPA page to improve my learning in TypeScript and ReactJS.',
