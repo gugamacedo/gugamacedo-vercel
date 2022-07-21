@@ -25,14 +25,16 @@ const data = [
   },
   
   {
-    title: 'Selective Collect',
-    link: 'https://mini-course-react.vercel.app/',
-    image: '/mini-course-react.png',
+    title: 'My Trips (developing)',
+    link: 'https://gugamacedo.vercel.app/',
+    image: '/my-trips.png',
     about:
-      'A SPA page to improve my learning in TypeScript and ReactJS.',
+      'A fully interactive map using the LeafletJS library. Each point on the map is managed through a cloud CMS called GraphCMS. Using the main features of NextJS, React and GraphQL.',
     made: [
-      { name: 'TypeScript', logo: 'typescript' },
+      { name: 'NextJS', logo: 'next.js' },
       { name: 'React', logo: 'react' },
+      { name: 'TypeScript', logo: 'typescript' },
+      { name: 'GraphQL', logo: 'graphqL' }
     ],
   },
 
